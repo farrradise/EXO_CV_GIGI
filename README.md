@@ -1,4 +1,4 @@
-# EXO_CV_GIGI
+# Exercice CV GIGI
 
 Ici, vous trouverez le *deuxième projet* de cette semaine. 
 ---------------------------------------------------------
